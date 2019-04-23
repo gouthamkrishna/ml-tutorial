@@ -116,3 +116,4 @@ while _in > -1:
     plot_value_array(_in, predictions, test_labels)
     plt.show()
     _in = input("Enter test index: ")
+    _in = int(_in)
