@@ -1,0 +1,5 @@
+no entry
+no overtake
+no right
+no stop
+speed limit 70

@@ -1,0 +1,6 @@
+no left turn
+no stopping
+ns
+one way only
+speed limit 30
+speed limit 50

@@ -1,0 +1,4 @@
+no left turn
+one way only
+speed limit 30
+speed limit 50
